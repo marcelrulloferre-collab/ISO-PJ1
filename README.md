@@ -2,7 +2,7 @@
 
 Este repositorio contiene el material del curso de Machine Learning desarrollado por Mireia Consarnau.
 
-!Imatge manual](sp1/imatge/Phoenicopterus_ruber_Bonaire_1.jpg)
+![Imatge manual](sp1/imatge/Phoenicopterus_ruber_Bonaire_1.jpg)
 ## Contenido
 
 - Sprint 1: Instal·lació, Configuració Inicial i Programari de Base
