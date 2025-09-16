@@ -1,4 +1,4 @@
-# Curso de Machine Learning
+# Projecte 1
 
 Este repositorio contiene el material del curso de Machine Learning desarrollado por Mireia Consarnau.
 
