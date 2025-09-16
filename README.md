@@ -4,11 +4,11 @@ Este repositorio contiene el material del curso de Machine Learning desarrollado
 
 ## Contenido
 
-Sprint 1: Instal·lació, Configuració Inicial i Programari de Base
-Sprint 2: Instal·lació, Configuració de Programari de Base i Gestió de Fitxers
-Sprint 3: Administració de Dominis i Seguretat
-Sprint 4:Configuració del Programari Base i Sistemes d'Emmagatzematge en Ubuntu
-Sprint 5: Monitoratge, Auditories i Programari Client/Servidor
+- Sprint 1: Instal·lació, Configuració Inicial i Programari de Base
+- Sprint 2: Instal·lació, Configuració de Programari de Base i Gestió de Fitxers
+- Sprint 3: Administració de Dominis i Seguretat
+- Sprint 4:Configuració del Programari Base i Sistemes d'Emmagatzematge en Ubuntu
+- Sprint 5: Monitoratge, Auditories i Programari Client/Servidor
 
 ## Uso
 
