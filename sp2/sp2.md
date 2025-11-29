@@ -1,21 +1,24 @@
+SPRINT 2
+
+
 
 
 <img width="262" height="479" alt="image" src="https://github.com/user-attachments/assets/4315de9c-e00a-42d8-86e6-d236b04a0269" />
-
+El primer que farem sera crear un disc extra.
 <img width="835" height="585" alt="image" src="https://github.com/user-attachments/assets/86223beb-7114-4040-910c-d24f5c8b3a21" />
-
+Un cop fer allo, revisarem la capacitat, o tamany del disc
 <img width="835" height="585" alt="image" src="https://github.com/user-attachments/assets/ec4e4a2b-b1b8-4b82-bef2-a436420883b3" />
-
+Segona captura, mateixa explicació que dalt.
 <img width="835" height="585" alt="image" src="https://github.com/user-attachments/assets/7f62b8f8-b2ea-4da7-90b3-8b6454e2984f" />
-
+Un cop revisat, anirem a Home, i farem el comando dt -T per a revisar els arxius i el espai que utilitzen.
 <img width="835" height="585" alt="image" src="https://github.com/user-attachments/assets/504235c1-79c3-4351-a3c5-15d35c26fe0b" />
-
+Ara fem un arxiu Hola.txt, introduim uns caracters, i fem un du -b al arxiu per a revisar els bits de pes, i un du -sh (important el - ) per a revisar el pes real en kilobits (4 kb)
 <img width="1270" height="798" alt="image" src="https://github.com/user-attachments/assets/81730a36-b7ea-4f71-8c8c-ad3b67715104" />
 
 <img width="1270" height="798" alt="image" src="https://github.com/user-attachments/assets/cbb43c4f-6942-4fb7-90f4-09a7cc65a0e7" />
-
+A les anteriors 2 captures creem 2 particions al disc
 <img width="1270" height="798" alt="image" src="https://github.com/user-attachments/assets/03351380-ffa2-4051-aa1d-a973ec2becea" />
-
+Aqui li donem format  a les particions en mfks.ext4 
 <img width="1270" height="798" alt="image" src="https://github.com/user-attachments/assets/9b51847e-8c6b-476c-bbf9-2f41f9af602c" />
 
 <img width="1270" height="798" alt="image" src="https://github.com/user-attachments/assets/67a2c2ce-7ea2-4100-8ad9-2bc74da36b09" />
