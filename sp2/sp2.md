@@ -81,9 +81,9 @@ COPIES DE SEGURETAT I AUTOMATITZACIÓ DE TASQUES
 1.Teoria copies de seguretat
 2.Teoria comandes Backups
 3.Practica comandes Backup
--cp
--rsync
--dd
+-cp = Copia simple que no es intel·ligent. transfereix arxius nomes localment, i no optimitza ni temps ni espai. El tipic Cp
+-rsync = Es una eina intel·ligent, que nomes copia els fitxers modificats, treballa en local i en remot.
+-dd = "No es una eina per a copiar, peró quan volem copiar tot el contingut (disc o partició) utilitzem el dd, que es de CLONACIÓ"
 4.Practica programes Backup
 -Deja-Dup
 -Duplicity
@@ -97,9 +97,26 @@ Diferencial
 Incremental
 
 ##COMPLETA##
++Copia tot el disc dur
+-Ocupa molt
+Per a recuperar sols es necessita la completa.
+Primer es fa una copia completa, i si es vol actualitzar s'afegeixen els arxius nous.
+
+##DIFERENCIAL##
++Ocupa menys
+-Per a recuperar-la, requereixes la ultima completa
+Sempre es fa a partir de la ultima completa.
+
+
+
+
+
+
 
 La diferencia mes significativa 
 
+<img width="815" height="580" alt="image" src="https://github.com/user-attachments/assets/e1e8b8b1-2e91-4a0b-8eff-99439712438b" />
 
+<img width="815" height="580" alt="image" src="https://github.com/user-attachments/assets/10cd3cdb-97eb-4e06-aca8-f703443342ef" />
 
 
