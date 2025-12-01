@@ -123,4 +123,5 @@ La diferencia mes significativa
 
 <img width="815" height="580" alt="image" src="https://github.com/user-attachments/assets/d317b16b-adf1-45ea-a961-12b6edb3c926" />
 
+<img width="815" height="580" alt="image" src="https://github.com/user-attachments/assets/f480e78b-5ff9-45c8-abb6-9ef042a9feb7" />
 
