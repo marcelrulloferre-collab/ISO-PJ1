@@ -77,7 +77,28 @@ Aqui li donem format  a les particions en mfks.ext4
 
 <img width="756" height="514" alt="image" src="https://github.com/user-attachments/assets/f0a0a016-fe29-4f80-bfd5-ad2d5ea4b3d5" />
 
+COPIES DE SEGURETAT I AUTOMATITZACIÓ DE TASQUES
+1.Teoria copies de seguretat
+2.Teoria comandes Backups
+3.Practica comandes Backup
+-cp
+-rsync
+-dd
+4.Practica programes Backup
+-Deja-Dup
+-Duplicity
+5.Teoria automatització scripts
+6.Practica automatització
+-cron
+-anacron
+3
+Completa
+Diferencial
+Incremental
 
+##COMPLETA##
+
+La diferencia mes significativa 
 
 
 
