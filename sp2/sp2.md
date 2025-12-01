@@ -119,4 +119,7 @@ La diferencia mes significativa
 
 <img width="815" height="580" alt="image" src="https://github.com/user-attachments/assets/10cd3cdb-97eb-4e06-aca8-f703443342ef" />
 
+<img width="815" height="580" alt="image" src="https://github.com/user-attachments/assets/4ea071e7-12e1-4757-8106-29f7f21c1b22" />
+
+
 
