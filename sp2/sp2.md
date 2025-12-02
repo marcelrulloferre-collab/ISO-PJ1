@@ -125,3 +125,29 @@ La diferencia mes significativa
 
 <img width="815" height="580" alt="image" src="https://github.com/user-attachments/assets/f480e78b-5ff9-45c8-abb6-9ef042a9feb7" />
 
+
+
+
+
+
+<img width="1839" height="773" alt="image" src="https://github.com/user-attachments/assets/6034fdb7-33cc-4937-8f6b-11ce1b95fb4a" />
+
+<img width="767" height="571" alt="image" src="https://github.com/user-attachments/assets/a4520ef6-6db1-4bf4-a9e6-5e065bcb13fa" />
+
+<img width="767" height="571" alt="image" src="https://github.com/user-attachments/assets/0250ce83-ff5b-425a-bdd0-762f07a70139" />
+
+<img width="1577" height="34" alt="image" src="https://github.com/user-attachments/assets/7052e513-3035-4ee9-abc1-d2381170cb17" />
+
+<img width="1846" height="932" alt="image" src="https://github.com/user-attachments/assets/959edef3-7c48-4e9d-ae26-ad109ac6e087" />
+
+<img width="1846" height="932" alt="image" src="https://github.com/user-attachments/assets/4832628f-e1d2-4b70-9f44-817ab7f0cedb" />
+
+<img width="1846" height="932" alt="image" src="https://github.com/user-attachments/assets/aa3064cd-c698-4f61-9088-33d6dd80cac4" />
+
+<img width="375" height="41" alt="image" src="https://github.com/user-attachments/assets/bfddc14d-cefa-43f7-b40f-8ed3bb688b92" />
+Per a llençar proccesos en segon pla.
+
+
+
+
+
