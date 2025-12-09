@@ -144,6 +144,26 @@ La diferencia mes significativa
 
 <img width="1846" height="932" alt="image" src="https://github.com/user-attachments/assets/aa3064cd-c698-4f61-9088-33d6dd80cac4" />
 
+
+<img width="804" height="420" alt="image" src="https://github.com/user-attachments/assets/d730914b-f888-4d26-a482-afca1f516f5b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="375" height="41" alt="image" src="https://github.com/user-attachments/assets/bfddc14d-cefa-43f7-b40f-8ed3bb688b92" />
 Per a llençar proccesos en segon pla.
 
