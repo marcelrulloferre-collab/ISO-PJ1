@@ -183,6 +183,21 @@ tot el que posem dins de crontab afecta a tots els usuaris
 
 <img width="804" height="712" alt="image" src="https://github.com/user-attachments/assets/a0890681-d4a1-4db1-a03c-e4c429db38fc" />
 
+<img width="804" height="712" alt="image" src="https://github.com/user-attachments/assets/8143da23-1d6e-4cde-b7bf-9f89f91906a3" />
+Aqui creem un script, i li donem permisos
+
+<img width="809" height="749" alt="image" src="https://github.com/user-attachments/assets/5f110032-0519-4467-987d-3d126f52066f" />
+
+<img width="788" height="79" alt="image" src="https://github.com/user-attachments/assets/1f554d92-abac-4072-bdf3-f2e708f5d950" />
+
+<img width="796" height="700" alt="image" src="https://github.com/user-attachments/assets/f74fe61d-9978-4177-a239-907ae26f035e" />
+
+<img width="812" height="703" alt="image" src="https://github.com/user-attachments/assets/af18cb66-a074-4fe8-b27c-8b84ee9a9c5f" />
+
+Aixo es per a que s'execute el script una vegada al dia quan s'enjega. Ho hem cambiat a 1
+
+<img width="812" height="703" alt="image" src="https://github.com/user-attachments/assets/f1fe2198-0e1c-428f-9c6f-cf8306ebc3a8" />
+Aqui hem borrat el arxiu que diu que ja s'ha executat el script, i ara farem un reboot
 
 
 
