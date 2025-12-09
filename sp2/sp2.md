@@ -145,7 +145,7 @@ La diferencia mes significativa
 <img width="1846" height="932" alt="image" src="https://github.com/user-attachments/assets/aa3064cd-c698-4f61-9088-33d6dd80cac4" />
 
 
-<img width="804" height="420" alt="image" src="https://github.com/user-attachments/assets/d730914b-f888-4d26-a482-afca1f516f5b" />
+
 
 
 
@@ -166,6 +166,27 @@ La diferencia mes significativa
 
 <img width="375" height="41" alt="image" src="https://github.com/user-attachments/assets/bfddc14d-cefa-43f7-b40f-8ed3bb688b92" />
 Per a llençar proccesos en segon pla.
+
+
+
+<img width="804" height="420" alt="image" src="https://github.com/user-attachments/assets/d730914b-f888-4d26-a482-afca1f516f5b" />
+
+
+
+crom i anacrom son dues eines de automatització per a executar tsques periodiques a base d'scripts
+Cron executa tasques programades en una data i hora especifiques. SI el sistema esta apagat, la tasca es perd. Es ideal per a tasques en dates i hores concretes i per a accions especifiques d'un usuari.
+Anacron es ideal per executar tasques periodiques on no cal una data i hora especifica. Normalment s'utilitza per a tasques i manteniment del sistema, i no requereix que el sistema estigui obert perque quan s'obri ja l'executara (no es perd la tasca)
+
+<img width="804" height="712" alt="image" src="https://github.com/user-attachments/assets/201a97f9-bfa6-4e47-bdf8-93081c517a40" />
+
+tot el que posem dins de crontab afecta a tots els usuaris
+
+<img width="804" height="712" alt="image" src="https://github.com/user-attachments/assets/a0890681-d4a1-4db1-a03c-e4c429db38fc" />
+
+
+
+
+
 
 
 
