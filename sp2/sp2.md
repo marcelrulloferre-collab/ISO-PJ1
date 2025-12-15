@@ -199,6 +199,11 @@ Aixo es per a que s'execute el script una vegada al dia quan s'enjega. Ho hem ca
 <img width="812" height="703" alt="image" src="https://github.com/user-attachments/assets/f1fe2198-0e1c-428f-9c6f-cf8306ebc3a8" />
 Aqui hem borrat el arxiu que diu que ja s'ha executat el script, i ara farem un reboot
 
+Cuota de disc:
+Es la limitacio que se'ls dona als usuaris d'espai de disc. Es pot permetre que es sobrepasse, que no es sobrepasse, es un depen, es pot triar.
+
+<img width="807" height="579" alt="image" src="https://github.com/user-attachments/assets/2ce8752d-c5b8-412f-9dd8-21eb672643d8" />
+
 
 
 
