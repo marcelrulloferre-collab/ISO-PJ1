@@ -242,6 +242,7 @@ Aqui es mostra com l'usuari ha excedit la quota, per tant, no pot acabar de real
 
 Aqui mostrem que la activació i la desactivació de les quotes funciona.
 
+<img width="814" height="569" alt="image" src="https://github.com/user-attachments/assets/c8e5338a-632d-47fb-a4c7-1bbef10aaa28" />
 
 
 
