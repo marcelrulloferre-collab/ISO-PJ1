@@ -210,7 +210,94 @@ Es la limitacio que se'ls dona als usuaris d'espai de disc. Es pot permetre que 
 
 <img width="806" height="579" alt="image" src="https://github.com/user-attachments/assets/7b863b05-1ded-4410-a623-f0b0a58784da" />
 
-<img width="806" height="579" alt="image" src="https://github.com/user-attachments/assets/2fb41ac9-71be-4d4f-ab13-0db2e71ed84b" />
+<img width="806" height="579" alt="image" src="https://github.com/user-attachments/assets/266e0a01-e191-43e9-95ee-a63e37c6fc46" />
+
+<img width="806" height="579" alt="image" src="https://github.com/user-attachments/assets/f6d0d81e-dd0f-4609-888c-ce2bbe0ccb55" />
+
+<img width="765" height="53" alt="image" src="https://github.com/user-attachments/assets/23ede84d-2dc8-42c8-8563-9b25b9658274" />
+
+Encengut i apagat de quota
+
+<img width="794" height="261" alt="image" src="https://github.com/user-attachments/assets/2e7d1b0e-222b-4901-bb1c-7edbe8433740" />
+
+Aquestes son comandes per a revisar el consum de cada usuari
+
+<img width="815" height="580" alt="image" src="https://github.com/user-attachments/assets/93a22fde-99d2-453e-ab6b-bcb5b85e8320" />
+
+Aqui es pot evitar per la part de bloc i per la part de quota. En el que tenim aqui es una configuració on permet sobrepasar el soft, pero no el hard.
+
+<img width="763" height="46" alt="image" src="https://github.com/user-attachments/assets/5583aa0f-856b-462c-b9d8-1c0750c77c59" />
+
+Donem permisos a la carpeta
+
+<img width="814" height="569" alt="image" src="https://github.com/user-attachments/assets/091cbf37-f00b-4d40-a94d-505e1910fbee" />
+
+Aqui veiem que l'usuari esta utilitzant mes del que esta permes.
+
+<img width="814" height="569" alt="image" src="https://github.com/user-attachments/assets/9f407eb0-f7a3-4719-bd51-c25c35a1475d" />
+
+Aqui es mostra com l'usuari ha excedit la quota, per tant, no pot acabar de realitzar la prova.
+
+<img width="814" height="569" alt="image" src="https://github.com/user-attachments/assets/fac1d482-f6cc-415b-b5ea-8a78902afc9c" />
+
+Aqui mostrem que la activació i la desactivació de les quotes funciona.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
