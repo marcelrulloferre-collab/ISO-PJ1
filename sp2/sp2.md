@@ -204,6 +204,14 @@ Es la limitacio que se'ls dona als usuaris d'espai de disc. Es pot permetre que 
 
 <img width="807" height="579" alt="image" src="https://github.com/user-attachments/assets/2ce8752d-c5b8-412f-9dd8-21eb672643d8" />
 
+<img width="674" height="27" alt="image" src="https://github.com/user-attachments/assets/b980aaac-5b3f-4358-9fa1-dc57949ff8c1" />
+
+<img width="806" height="579" alt="image" src="https://github.com/user-attachments/assets/8e9c1f12-d03f-4f2d-89f3-4c87384865ad" />
+
+<img width="806" height="579" alt="image" src="https://github.com/user-attachments/assets/7b863b05-1ded-4410-a623-f0b0a58784da" />
+
+<img width="806" height="579" alt="image" src="https://github.com/user-attachments/assets/2fb41ac9-71be-4d4f-ab13-0db2e71ed84b" />
+
 
 
 
