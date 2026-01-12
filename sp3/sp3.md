@@ -30,8 +30,11 @@ Slapcat pinta tot, no es optim en alguns casos
 
 <img width="1214" height="362" alt="image" src="https://github.com/user-attachments/assets/0aca8999-ece3-4183-bcf2-9b4ee75f7317" />
 
+<img width="1214" height="362" alt="image" src="https://github.com/user-attachments/assets/19a6061e-9339-4e33-9c91-3e789ca048fc" />
 
+<img width="1214" height="362" alt="image" src="https://github.com/user-attachments/assets/9a4ea198-387d-40c3-bbf5-27c199cb5163" />
 
+<img width="1216" height="491" alt="image" src="https://github.com/user-attachments/assets/ebf9bbcf-0e58-4375-8382-9ca1f20ebf34" />
 
 
 
