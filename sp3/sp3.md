@@ -11,6 +11,7 @@
 <img width="785" height="219" alt="image" src="https://github.com/user-attachments/assets/f26a06c0-920f-46e2-90db-a170347efb4d" />
 
 <img width="952" height="364" alt="image" src="https://github.com/user-attachments/assets/e4a24807-889f-45bd-b14e-8dfc612f8c66" />
+
 Slapcat pinta tot, no es optim en alguns casos
 <img width="959" height="264" alt="image" src="https://github.com/user-attachments/assets/20baabf4-4b51-4695-9a96-345c5bd10bbd" />
 
@@ -36,6 +37,7 @@ Slapcat pinta tot, no es optim en alguns casos
 
 <img width="1216" height="491" alt="image" src="https://github.com/user-attachments/assets/ebf9bbcf-0e58-4375-8382-9ca1f20ebf34" />
 
+<img width="1258" height="369" alt="image" src="https://github.com/user-attachments/assets/8c74bec1-08d9-454b-aab9-e2a50a1c9838" />
 
 
 
