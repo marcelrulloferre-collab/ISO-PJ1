@@ -67,6 +67,29 @@ Aqui fem un nano i editem la ultima linia.
 
 <img width="715" height="566" alt="image" src="https://github.com/user-attachments/assets/43a96b72-a8d7-457d-a2f7-1f736c3badd0" />
 
+<img width="715" height="566" alt="image" src="https://github.com/user-attachments/assets/7c7913b7-2dca-4ee1-a670-be6f86bd033c" />
+
+<img width="597" height="34" alt="image" src="https://github.com/user-attachments/assets/0f748d80-7372-48dd-94fa-71d86f68938e" />
+
+<img width="597" height="34" alt="image" src="https://github.com/user-attachments/assets/b78529be-b36a-4990-bb07-dcbbf4931255" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
