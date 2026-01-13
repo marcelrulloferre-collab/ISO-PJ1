@@ -39,14 +39,23 @@ Slapcat pinta tot, no es optim en alguns casos
 
 <img width="1258" height="369" alt="image" src="https://github.com/user-attachments/assets/8c74bec1-08d9-454b-aab9-e2a50a1c9838" />
 
+<img width="715" height="566" alt="image" src="https://github.com/user-attachments/assets/6c600515-029b-40e9-bf05-0d7e6dd9978d" />
 
+<img width="715" height="566" alt="image" src="https://github.com/user-attachments/assets/23c77e27-2b7b-413e-a598-25ae9b0fad4a" />
 
+<img width="715" height="566" alt="image" src="https://github.com/user-attachments/assets/8b95b3ef-934b-4c67-bf5a-6b2ecb39f9f8" />
 
+<img width="715" height="566" alt="image" src="https://github.com/user-attachments/assets/2b37a7b8-d8d0-4eca-975b-c7d37a2c7445" />
 
+<img width="715" height="566" alt="image" src="https://github.com/user-attachments/assets/c7cbaf4a-e98f-4675-b6f5-024c44a58488" />
 
+<img width="715" height="566" alt="image" src="https://github.com/user-attachments/assets/39c1573c-c532-448f-9fb8-6f8c379c860e" />
 
+<img width="715" height="566" alt="image" src="https://github.com/user-attachments/assets/150928a8-cc68-4dae-9d89-a73f9c10d3f3" />
 
+<img width="715" height="566" alt="image" src="https://github.com/user-attachments/assets/3241797d-f324-4dfd-bea8-f9f6fadc2bcc" />
 
+<img width="715" height="566" alt="image" src="https://github.com/user-attachments/assets/c9440f6a-f186-47a4-ba90-947c5411a895" />
 
 
 
