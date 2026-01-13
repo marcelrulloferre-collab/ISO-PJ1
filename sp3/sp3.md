@@ -57,9 +57,15 @@ Slapcat pinta tot, no es optim en alguns casos
 
 <img width="715" height="566" alt="image" src="https://github.com/user-attachments/assets/c9440f6a-f186-47a4-ba90-947c5411a895" />
 
+<img width="715" height="566" alt="image" src="https://github.com/user-attachments/assets/a4320f68-2724-420c-af6b-9bb99c2375c1" />
 
+<img width="715" height="566" alt="image" src="https://github.com/user-attachments/assets/6e30ff82-9731-4c20-b154-7a0640a010ab" />
 
+<img width="715" height="566" alt="image" src="https://github.com/user-attachments/assets/d15cb162-1331-4508-aafd-a1fb97eb0985" />
+Aqui fem un nano i editem la ultima linia.
+<img width="715" height="566" alt="image" src="https://github.com/user-attachments/assets/211fab81-4b9b-449e-9f85-7e75d27da5de" />
 
+<img width="715" height="566" alt="image" src="https://github.com/user-attachments/assets/43a96b72-a8d7-457d-a2f7-1f736c3badd0" />
 
 
 
