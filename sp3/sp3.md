@@ -73,10 +73,19 @@ Aqui fem un nano i editem la ultima linia.
 
 <img width="597" height="34" alt="image" src="https://github.com/user-attachments/assets/b78529be-b36a-4990-bb07-dcbbf4931255" />
 
+Un servidor samba serveix per a compartir fitxers, impressores, carpetes a traves d'una identificació per usuari, i es utilitzable en maquines windows i ubuntu. 
 
+<img width="787" height="534" alt="image" src="https://github.com/user-attachments/assets/978d1ec0-fc73-4d3f-a69d-87d77729f17c" />
 
+<img width="787" height="534" alt="image" src="https://github.com/user-attachments/assets/3ecb8179-13d4-444d-9152-c40b2bd6887b" />
 
+<img width="791" height="534" alt="image" src="https://github.com/user-attachments/assets/1f98f5cb-775d-4a6d-98e2-4f9efbf0f3c2" />
 
+<img width="791" height="534" alt="image" src="https://github.com/user-attachments/assets/48ae4819-b1b9-4eb0-85be-664db61ad579" />
+
+<img width="791" height="534" alt="image" src="https://github.com/user-attachments/assets/8a226cc5-eb2e-45e1-951f-e7d764a3cba6" />
+
+<img width="517" height="34" alt="image" src="https://github.com/user-attachments/assets/413635e9-3c13-4e90-8601-cf99123cc372" />
 
 
 
