@@ -101,4 +101,28 @@ Un servidor samba serveix per a compartir fitxers, impressores, carpetes a trave
 
 
 
+SERVIDOR NFS
+
+Es un protocol que permet compartir fitxers directoris amb linux a traves de una xarxa local 
+
+La autentificació es fa a nivell de host, no d'usuari, a diferencia de samba, i poden accedir tant clients windows com linux.
+
+#### Nfs sense ldap
+
+<img width="675" height="28" alt="image" src="https://github.com/user-attachments/assets/e719bc63-6951-48b3-bb45-7ad081ca939c" />
+
+#### Server
+
+
+
+
+
+
+
+
+
+
+
+
+
 
