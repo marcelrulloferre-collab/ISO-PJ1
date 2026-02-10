@@ -121,6 +121,8 @@ La autentificació es fa a nivell de host, no d'usuari, a diferencia de samba, i
 
 <img width="727" height="428" alt="image" src="https://github.com/user-attachments/assets/b8f092da-34e3-4b57-a5db-4abcbd7d02bd" />
 
+<img width="421" height="78" alt="image" src="https://github.com/user-attachments/assets/e448b3f8-2e79-450d-be24-e168948de074" />
+
 #### Server
 
 
