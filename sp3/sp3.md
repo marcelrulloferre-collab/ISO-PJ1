@@ -15,6 +15,7 @@
 Slapcat pinta tot, no es optim en alguns casos
 <img width="959" height="264" alt="image" src="https://github.com/user-attachments/assets/20baabf4-4b51-4695-9a96-345c5bd10bbd" />
 
+#### Server
 <img width="731" height="36" alt="image" src="https://github.com/user-attachments/assets/b0b46ab1-f036-4278-86f9-cb2a74f8d766" />
 
 <img width="1215" height="715" alt="image" src="https://github.com/user-attachments/assets/84c4875f-0b94-4914-8ffd-a8147e615656" />
@@ -122,6 +123,11 @@ La autentificació es fa a nivell de host, no d'usuari, a diferencia de samba, i
 <img width="727" height="428" alt="image" src="https://github.com/user-attachments/assets/b8f092da-34e3-4b57-a5db-4abcbd7d02bd" />
 
 <img width="421" height="78" alt="image" src="https://github.com/user-attachments/assets/e448b3f8-2e79-450d-be24-e168948de074" />
+
+<img width="806" height="416" alt="image" src="https://github.com/user-attachments/assets/4c5452db-e2c3-4f03-9b3f-f6a4acd474d0" />
+
+<img width="808" height="543" alt="image" src="https://github.com/user-attachments/assets/efc2527f-71fc-42f4-b9c4-794e51e2afc6" />
+
 
 #### Server
 
